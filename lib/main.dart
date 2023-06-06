@@ -115,36 +115,15 @@ class BuboCategoryViewer extends StatelessWidget {
         }).toList(),
       );
 
-      ///
-      /// Manual grid implementation
-      ///
-      // List<List<BuboCategory>> grid = [];
 
-      // fill grid with empty rows
-      // for (var i = 0; i < rows; i++) {
-      //   grid.add([]);
-      // }
 
-      // // 0 1 2
-      // // x x x
-      // // x x B
+      
 
-      // add element to the respective row
-      // for (var i = 0; i < buboCategories.length; i++) {
-      //   grid[i % rows].add(buboCategories[i]);
-      // }
 
-      // var categoryRows = grid
-      //     .map((rowWithCategories) => Row(
-      //         //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-      //         children: rowWithCategories
-      //             .map((category) => BuboCategoryListItem(language, category))
-      //             .toList()))
-      //     .toList();
 
-      // return ListView(
-      //   children: categoryRows,
-      // );
+
+
+
     } else {
       return ListView(
         children: buboCategories.map((buboCategory) {
@@ -241,3 +220,5 @@ class BuboCategoryListItem extends StatelessWidget {
         ));
   }
 }
+
+
