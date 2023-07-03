@@ -1,15 +1,16 @@
 
 <p align="center">
-
+<img align="center" src="./Flutter app.png" width="350", height="350">
+</p>
 </p>
 <br>
 <br>
 <br>
 <p align = "center">
-<img src = "https://img.shields.io/github/languages/count/LRGeorgiev/DNA?style=for-the-badge">
-<img src = "https://img.shields.io/github/contributors/LRGeorgiev/DNA?style=for-the-badge">
-<img src = "https://img.shields.io/github/repo-size/LRGeorgiev/DNA?style=for-the-badge">
-<img src = "https://img.shields.io/github/last-commit/LRGeorgiev/DNA?style=for-the-badge">
+<img src = "https://img.shields.io/github/languages/count/LRGeorgiev/Flutter-app-practise-2023?style=for-the-badge">
+<img src = "https://img.shields.io/github/contributors/LRGeorgiev/Flutter-app-practise-2023?style=for-the-badge">
+<img src = "https://img.shields.io/github/repo-size/LRGeorgiev/Flutter-app-practise-2023?style=for-the-badge">
+<img src = "https://img.shields.io/github/last-commit/LRGeorgiev/Flutter-app-practise-2023?style=for-the-badge">
 
 </p>
 <br>
@@ -23,26 +24,16 @@
   You can downlaod our game from the release tab or by cloning the repository and then run DNA.exe
   
   
-  <h1>🤝 Our Team </h1>
+  <h1>Contact me</h1>
   <p>
   
 1. **Lubomir Georgiev** - **Scrum Trainer**	
    > ***GitHub profile***: [***LRGeorgiev***](https://github.com/LRGeorgiev)	
-
-2. **Krasimira Ruseva** - **Backend Developer** 
-   > ***GitHub profile***: [***krasimiraruseva1***](https://github.com/krasimiraruseva1)	
-
-3. **Toni Chodzhorova** - **Backend Developer** 
-   > ***GitHub profile***: [***tonichodzhorova***](https://github.com/tonichodzhorova)	
-
-4. **Lorena Hristova** - **Designer** 
-   > ***GitHub profile***: [***LSHristova20***](https://github.com/LSHristova20)
-   
   </p>
   
   <h1>🚀 Used Technologies</h1>
   <p align="left"> 
-	<a> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"/> </a> 
+Loading...
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/RNyL3Cm/rsz-raylib-logo.png" alt="rsz-raylib-logo" border="0"></a>
 	<a> <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/> </a>
 	<a> <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png"/> </a>
