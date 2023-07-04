@@ -1,6 +1,6 @@
 {
-    "name": "bubolechka2",
-    "short_name": "bubolechka2",
+    "name": "shop_ui_with_ai",
+    "short_name": "shop_ui_with_ai",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

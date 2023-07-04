@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "bubolechka2" "\0"
+            VALUE "FileDescription", "shop_ui_with_ai" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bubolechka2" "\0"
+            VALUE "InternalName", "shop_ui_with_ai" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bubolechka2.exe" "\0"
-            VALUE "ProductName", "bubolechka2" "\0"
+            VALUE "OriginalFilename", "shop_ui_with_ai.exe" "\0"
+            VALUE "ProductName", "shop_ui_with_ai" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

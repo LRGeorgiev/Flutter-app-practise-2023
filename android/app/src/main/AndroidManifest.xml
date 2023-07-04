@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bubolechka2">
+    package="com.example.shop_ui_with_ai">
    <application
-        android:label="bubolechka2"
+        android:label="shop_ui_with_ai"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
